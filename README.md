@@ -6,7 +6,7 @@
   </p>
   <p><strong>Break free from Big Tech. Build your digital home.</strong></p>
   
-  <a href="https://awesome.re/badge.svg"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  
   <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
   <a href="https://github.com/itsbryanman/selfhostedFamily/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
   <a href="https://github.com/awesome-selfhosted/awesome-selfhosted"><img src="https://img.shields.io/badge/Awesome-Self--Hosted-blue?logo=awesome-lists" alt="Awesome Self-Hosted"></a>
