@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/itsbryanman/selfhostedFamily/logo.png" alt="Self-Hosted Family Logo" width="150"/>
+  <img src="https://raw.githubusercontent.com/itsbryanman/selfhostedFamily/main/assets/logo.png" alt="Self-Hosted Family Logo" width="150"/>
   <h1>Awesome Self-Hosted for the Family</h1>
   <p>
     A curated list of awesome, family-focused, and kid-friendly self-hosted solutions to create the ultimate private family cloud.
