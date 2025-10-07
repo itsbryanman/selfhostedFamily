@@ -34,6 +34,8 @@ This list is for the tinkerers, the privacy advocates, and the parents who want 
 - [🤖 Home Automation & Monitoring](#-home-automation--monitoring)
 - [🕹️ Gaming & Kid-Friendly Fun](#️-gaming--kid-friendly-fun)
 - [🛠️ Essential Utilities](#️-essential-utilities)
+- [✅ Tasks & To-Dos](#-tasks--to-dos)
+- [💰 Family Finances](#-family-finances)
 
 ---
 
@@ -117,6 +119,17 @@ This list is for the tinkerers, the privacy advocates, and the parents who want 
 * [**Syncthing**](https://syncthing.net/) - A continuous file synchronization program. Think private, peer-to-peer Dropbox.
 * [**RustDesk**](https://rustdesk.com/) - Open-source remote desktop software, the self-hosted TeamViewer alternative.
 * [**Uptime Kuma**](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool to keep an eye on all your services.
+
+### ✅ Tasks & To-Dos  
+*Keep the whole family on track with chores, lists, and reminders.*  
+
+* [**Donetick**](https://donetick.com/) – A sleek, self-hosted to-do and task manager with sharing, recurring tasks, and reminders. Great for family chore boards or personal productivity. [GitHub](https://github.com/donetick/donetick)  
+
+### 💰 Family Finances  
+*Track spending, manage budgets, and stay on top of household finances.*  
+
+* [**ezBookkeeping**](https://ezbookkeeping.mayswind.net/) – A modern self-hosted bookkeeping and expense tracking system with multi-user support. Perfect for family budget management. [GitHub](https://github.com/mayswind/ezBookkeeping)  
+
 
 ---
 
