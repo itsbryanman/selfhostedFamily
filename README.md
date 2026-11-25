@@ -116,6 +116,7 @@ This list is for the tinkerers, the privacy advocates, and the parents who want 
 * [**AdGuard Home**](https://adguard.com/en/adguard-home/overview.html) - A powerful network-wide ad-blocker with parental control features.
 * [**Syncthing**](https://syncthing.net/) - A continuous file synchronization program. Think private, peer-to-peer Dropbox.
 * [**RustDesk**](https://rustdesk.com/) - Open-source remote desktop software, the self-hosted TeamViewer alternative.
+* [**SiteWatcher**](https://github.com/NikKurkov/sitewatcher) - Monitor your self-hosted websites and get alerts when a site goes down or its TLS certificate is about to expire.
 * [**Uptime Kuma**](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool to keep an eye on all your services.
 
 ---
